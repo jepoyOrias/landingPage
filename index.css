@@ -1,0 +1,13 @@
+.testimonial-img{
+  top: -55px;
+  left: 50%;
+  transform: translate(-50%);
+  width: 80px;
+}
+.testimonial-wrapper .card-body{
+  padding-top: 50px !important;
+}
+.feature-icon-small {
+  width: 3rem;
+  height: 3rem;
+}
